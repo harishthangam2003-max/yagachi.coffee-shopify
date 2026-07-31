@@ -68,7 +68,7 @@ Every product page combines storytelling with essential purchasing information, 
 
 The About page extends the brand philosophy beyond products, introducing visitors to the people, landscape, and values behind every cup.
 
-![About](assets/about_us.png)
+![About](assets/aboutus.png)
 
 ---
 
