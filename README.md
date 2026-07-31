@@ -4,7 +4,7 @@
 
 A premium Shopify storefront designed to reflect the craftsmanship and philosophy of Yagachi Coffee through clean design, responsive development, and thoughtful user experiences.
 
-![Cover](assets/cover.webp)
+![Cover](assets/cover.png)
 
 ---
 
@@ -44,7 +44,7 @@ The objective of this project was to translate the brand's identity into a moder
 
 The homepage introduces visitors through immersive visuals and generous white space, creating a calm first impression before encouraging product discovery.
 
-![Homepage](assets/home-page.webp)
+![Homepage](assets/homepage.png)
 
 ---
 
@@ -52,7 +52,7 @@ The homepage introduces visitors through immersive visuals and generous white sp
 
 The collection page was simplified to help customers discover coffee naturally. Rather than displaying every grind variation as separate products, customers first select a coffee before choosing their preferred grind size inside the product page.
 
-![Collection](assets/collection.webp)
+![Collection](assets/collection.png)
 
 ---
 
@@ -60,7 +60,7 @@ The collection page was simplified to help customers discover coffee naturally. 
 
 Every product page combines storytelling with essential purchasing information, allowing customers to understand the coffee's origin, roast profile, tasting notes, and brewing details before making a purchase.
 
-![Product](assets/product.webp)
+![Product](assets/product.png)
 
 ---
 
@@ -68,7 +68,7 @@ Every product page combines storytelling with essential purchasing information, 
 
 The About page extends the brand philosophy beyond products, introducing visitors to the people, landscape, and values behind every cup.
 
-![About](assets/about.webp)
+![About](assets/about_us.png)
 
 ---
 
