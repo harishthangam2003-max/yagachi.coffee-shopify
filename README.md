@@ -44,7 +44,7 @@ The objective of this project was to translate the brand's identity into a moder
 
 The homepage introduces visitors through immersive visuals and generous white space, creating a calm first impression before encouraging product discovery.
 
-![Homepage](assets/homepage.png)
+![Homepage](assets/home.png)
 
 ---
 
@@ -68,7 +68,7 @@ Every product page combines storytelling with essential purchasing information, 
 
 The About page extends the brand philosophy beyond products, introducing visitors to the people, landscape, and values behind every cup.
 
-![About](assets/aboutus.png)
+![About](assets/about.png)
 
 ---
 
